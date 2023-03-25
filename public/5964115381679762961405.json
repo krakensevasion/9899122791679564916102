@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "76717371239",
+    "project_id": "always-berkah-dev",
+    "storage_bucket": "always-berkah-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76717371239:android:46a6c360b814eb814a89c2",
+        "android_client_info": {
+          "package_name": "com.alwaysberkahdev.sakuraclueschoolsimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76717371239-t03pqo8putljsjflhl7q0tj0um3e5erk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASISp7wb-hZwlNjLgg-Mhqk0P1w4MAFDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76717371239-t03pqo8putljsjflhl7q0tj0um3e5erk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76717371239:android:a4c23be2b4ba3aa14a89c2",
+        "android_client_info": {
+          "package_name": "com.alwaysberkahdev.skinfffdiamondtools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76717371239-t03pqo8putljsjflhl7q0tj0um3e5erk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASISp7wb-hZwlNjLgg-Mhqk0P1w4MAFDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76717371239-t03pqo8putljsjflhl7q0tj0um3e5erk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76717371239:android:d90055fc90dd2a354a89c2",
+        "android_client_info": {
+          "package_name": "com.alwaysberkahdev.telelatinoguidetv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76717371239-t03pqo8putljsjflhl7q0tj0um3e5erk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASISp7wb-hZwlNjLgg-Mhqk0P1w4MAFDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76717371239-t03pqo8putljsjflhl7q0tj0um3e5erk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
